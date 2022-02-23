@@ -1,7 +1,6 @@
 # KT2-OptionalAndStreams
 
-Optional
-And it is very hard to avoid it without using too many null checks. So, to overcome this, Java  has introduced a new class Optional in java.util package.
+hard to avoid it without using too many null checks. So, to overcome this, Java  has introduced a new class Optional in java.util package.
 It can help in writing a neat code without using too many null checks. By using Optional,
 
 Streams
